@@ -1,44 +1,26 @@
 {
   "project_info": {
-    "project_number": "74430221409",
-    "project_id": "android-wedakarayo-app",
-    "storage_bucket": "android-wedakarayo-app.appspot.com"
+    "project_number": "789751842884",
+    "project_id": "ca-cablog",
+    "storage_bucket": "ca-cablog.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:74430221409:android:cc6417dbefee664f04ee20",
+        "mobilesdk_app_id": "1:789751842884:android:af10592758009b54ecd411",
         "android_client_info": {
-          "package_name": "com.androidwedakarayo"
+          "package_name": "com.codearise.blog"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "74430221409-vvurbnslit731d0is8gj8gpcup835c7t.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.androidwedakarayo",
-            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
-          }
-        },
-        {
-          "client_id": "74430221409-g55t5h219d7o1td98pfjofe0546sc672.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA5RqhOl85TV-zj3xt55gYEBnkdZJsCRYw"
+          "current_key": "AIzaSyBdHF8tRCQ-nUNV56F9yK-GgPt5jGx20WQ"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "74430221409-g55t5h219d7o1td98pfjofe0546sc672.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
